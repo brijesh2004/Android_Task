@@ -3,7 +3,7 @@
 <ol>
   <li>
     <p>Clone this repository:</p>
-    <pre><code>git clone https://github.com/YOUR_USERNAME/WingsFlyApp.git
+    <pre><code>git clone https://github.com/brijesh2004/Android_Task.git
 cd WingsFlyApp</code></pre>
   </li>
   <li>
