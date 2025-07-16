@@ -1,4 +1,4 @@
-<h2>🧭 Setup Instructions</h2>
+<h2> Setup Instructions</h2>
 
 <ol>
   <li>
